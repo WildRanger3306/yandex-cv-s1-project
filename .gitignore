@@ -213,3 +213,5 @@ configs
 mmdet
 phase-*.md
 runs
+*.pt
+*.pth
